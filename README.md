@@ -9,13 +9,13 @@ In order to run the code:
 You have to install: numpy, matplotlib, and scipy
 ***
 
-1. Assignment_01_Part_01.ipynb - Stationary problem
+## 1. Assignment_01_Part_01.ipynb - Stationary problem
    
 In this part, we investigate four bandit algorithms, including the greedy method with non-optimistic initial values, the epsilon-greedy method, the greedy method with optimistic starting values, and the gradient bandit algorithm. 
 
 Each algorithm is run for 2000 time steps with 1000 different simulations.
 
-3. Assignment_01_Part_02.ipynb - Non-Stationary problem
+## 2. Assignment_01_Part_02.ipynb - Non-Stationary problem
 
 In this part, we consider a bandit problem consisting of 10 arms with non-stationary environments that change the rewards gradually, abruptly, or a combination of both. 
 
