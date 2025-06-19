@@ -1,5 +1,7 @@
 # Simulation code of Assignment 1:
 
+Code by Hoang Phi Yen Duong and Tinh Thanh Bui
+
 # Prerequisites:
 
 Python 3.9 or higher, Jupyter Notebook
